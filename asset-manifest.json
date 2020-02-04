@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projekt-recepti/static/css/main.3c0bd68a.chunk.css",
+    "main.js": "/Projekt-recepti/static/js/main.1e55b8f7.chunk.js",
+    "main.js.map": "/Projekt-recepti/static/js/main.1e55b8f7.chunk.js.map",
+    "runtime~main.js": "/Projekt-recepti/static/js/runtime~main.c9a7f358.js",
+    "runtime~main.js.map": "/Projekt-recepti/static/js/runtime~main.c9a7f358.js.map",
+    "static/js/2.24ee7dfa.chunk.js": "/Projekt-recepti/static/js/2.24ee7dfa.chunk.js",
+    "static/js/2.24ee7dfa.chunk.js.map": "/Projekt-recepti/static/js/2.24ee7dfa.chunk.js.map",
+    "index.html": "/Projekt-recepti/index.html",
+    "precache-manifest.7efd316487ad702f09c679ca353f96d9.js": "/Projekt-recepti/precache-manifest.7efd316487ad702f09c679ca353f96d9.js",
+    "service-worker.js": "/Projekt-recepti/service-worker.js",
+    "static/css/main.3c0bd68a.chunk.css.map": "/Projekt-recepti/static/css/main.3c0bd68a.chunk.css.map"
+  }
+}
